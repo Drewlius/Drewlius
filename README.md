@@ -6,6 +6,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/Drewlius?style=social)](https://github.com/Drewlius)
 [![GitHub Stars](https://img.shields.io/github/stars/Drewlius?style=social)](https://github.com/Drewlius)
+[![WakaTime](https://img.shields.io/badge/WakaTime-tracked-brightgreen?style=flat)](https://wakatime.com/@Drewlius)
 
 </div>
 
@@ -23,10 +24,31 @@ I'm a dedicated software developer with a passion for building innovative soluti
 
 ---
 
-## 📊 Coding Activity
+## ⏱️ Coding Activity (WakaTime)
 
-<!-- WakaTime Stats -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=drewlius&layout=compact&theme=dark)
+```
+Check out my coding activity on WakaTime: https://wakatime.com/@Drewlius
+```
+
+[![WakaTime](https://wakatime.com/badge/user/Drewlius.svg?style=flat-square)](https://wakatime.com/@Drewlius)
+
+---
+
+## 📌 Quick Access Gists
+
+> A curated collection of my most useful gists. [View all gists →](https://gist.github.com/Drewlius)
+
+<div align="center">
+
+| Gist | Description |
+|------|-------------|
+| [View All Gists](https://gist.github.com/Drewlius) | Browse my complete collection of 10+ useful scripts and code snippets |
+| [Latest Gists](https://gist.github.com/Drewlius?sort=updated) | Most recently updated gists sorted by date |
+| [Gist Search](https://gist.github.com/search?q=user:Drewlius) | Search through all my gists |
+
+</div>
+
+**Quick Tip:** You can fork any of my gists or use them directly in your own projects!
 
 ---
 
@@ -110,6 +132,7 @@ I'm a dedicated software developer with a passion for building innovative soluti
 - ✅ **Multi-Language Proficiency** - Python, JavaScript, Bash, and scripting automation
 - ✅ **AI Integration Specialist** - Building plugins and extensions for AI-powered tools
 - ✅ **Documentation Excellence** - Clear, comprehensive documentation for technical projects
+- ✅ **Gist Library** - 10+ useful scripts and snippets available for community use
 - ✅ **Community Engagement** - Creating upstream PRs and improving open-source projects
 
 ---
@@ -144,7 +167,8 @@ All repositories feature:
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Drewlius-black?style=for-the-badge&logo=github)](https://github.com/Drewlius)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+[![Gists](https://img.shields.io/badge/Gists-View%20All-orange?style=for-the-badge&logo=github)](https://gist.github.com/Drewlius)
+[![WakaTime](https://img.shields.io/badge/WakaTime-Tracking-blue?style=for-the-badge&logo=wakatime)](https://wakatime.com/@Drewlius)
 
 </div>
 
