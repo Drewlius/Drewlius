@@ -1,16 +1,159 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**Drewlius/Drewlius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> A passionate developer focused on open-source contributions, scripting automation, and AI-driven solutions.
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Followers](https://img.shields.io/github/followers/Drewlius?style=social)](https://github.com/Drewlius)
+[![GitHub Stars](https://img.shields.io/github/stars/Drewlius?style=social)](https://github.com/Drewlius)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a dedicated software developer with a passion for building innovative solutions and contributing to the open-source community. My expertise spans multiple domains including:
+
+- 🔧 **Systems Programming** - Linux utilities and cryptography
+- 🤖 **AI/ML Integration** - Obsidian plugins and coding assistants
+- 📄 **Automation Scripts** - PDF processing and device management
+- 🔐 **Security & Encryption** - Encrypted filesystem automation
+- 📦 **Community Contributions** - Maintaining and improving community-driven projects
+
+---
+
+## 📊 Coding Activity
+
+<!-- WakaTime Stats -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=drewlius&layout=compact&theme=dark)
+
+---
+
+## 🏆 Featured Projects
+
+### Open-Source Contributions
+
+<table>
+<tr>
+  <td width="50%">
+    <h3>🔐 CryptAutomount</h3>
+    <p>Scripts and documentation for encrypting and auto-mounting encrypted filesystems on Linux.</p>
+    <a href="https://github.com/Drewlius/CryptAutomount">
+      <img src="https://img.shields.io/badge/View%20Project-CryptAutomount-informational?style=flat-square&logo=github">
+    </a>
+  </td>
+  <td width="50%">
+    <h3>📄 MergePDF</h3>
+    <p>Lightweight PDF merger utility built with Python and PyPDF2.</p>
+    <a href="https://github.com/Drewlius/MergePDF">
+      <img src="https://img.shields.io/badge/View%20Project-MergePDF-informational?style=flat-square&logo=github">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3>🧠 OpenCode AI</h3>
+    <p>Contributing to the open-source AI coding agent project.</p>
+    <a href="https://github.com/Drewlius/opencode">
+      <img src="https://img.shields.io/badge/View%20Project-OpenCode-informational?style=flat-square&logo=github">
+    </a>
+  </td>
+  <td width="50%">
+    <h3>📝 OpenCode Obsidian</h3>
+    <p>Obsidian plugin embedding OpenCode AI assistant in the sidebar.</p>
+    <a href="https://github.com/Drewlius/opencode-obsidian">
+      <img src="https://img.shields.io/badge/View%20Project-Obsidian%20Plugin-informational?style=flat-square&logo=github">
+    </a>
+  </td>
+</tr>
+<tr>
+  <td width="50%">
+    <h3>🎨 Linx Sensor Panel</h3>
+    <p>Recreation of sensor panel device functionality using Python.</p>
+    <a href="https://github.com/Drewlius/linx.sensor_panel">
+      <img src="https://img.shields.io/badge/View%20Project-Sensor%20Panel-informational?style=flat-square&logo=github">
+    </a>
+  </td>
+  <td width="50%">
+    <h3>🎬 Community Scripts</h3>
+    <p>Personal fork of Stash Community plugins for upstream contributions and improvements.</p>
+    <a href="https://github.com/Drewlius/CommunityScripts">
+      <img src="https://img.shields.io/badge/View%20Project-Community%20Scripts-informational?style=flat-square&logo=github">
+    </a>
+  </td>
+</tr>
+</table>
+
+---
+
+## 💻 Tech Stack & Languages
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Encryption](https://img.shields.io/badge/Encryption-Security%20First-red?style=for-the-badge)
+![AI/ML](https://img.shields.io/badge/AI%2FML-Integration-blue?style=for-the-badge)
+
+</div>
+
+---
+
+## 📌 Key Achievements
+
+- ✅ **Active Open-Source Contributor** - Maintaining multiple community-driven projects
+- ✅ **Security-Focused Developer** - Experience with encryption and secure filesystem management
+- ✅ **Multi-Language Proficiency** - Python, JavaScript, Bash, and scripting automation
+- ✅ **AI Integration Specialist** - Building plugins and extensions for AI-powered tools
+- ✅ **Documentation Excellence** - Clear, comprehensive documentation for technical projects
+- ✅ **Community Engagement** - Creating upstream PRs and improving open-source projects
+
+---
+
+## 🔍 Recent Repository Activity
+
+All repositories feature:
+- 📋 **MIT or AGPL Licensing** - Respecting open-source principles
+- 📚 **Comprehensive Documentation** - Making projects accessible to all developers
+- 🤝 **Pull Request Ready** - Actively contributing to upstream projects
+- 🔧 **Production-Ready Code** - Well-structured and maintainable solutions
+
+<div align="center">
+
+[View All Repositories](https://github.com/Drewlius?tab=repositories)
+
+</div>
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- 🚀 Advanced AI/ML integration patterns
+- 🔐 Enhanced cryptographic implementations
+- 🌐 Full-stack web development
+- 📱 Cross-platform application development
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Drewlius-black?style=for-the-badge&logo=github)](https://github.com/Drewlius)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Code is poetry. Security is a requirement. Open-source is a lifestyle."*
+
+**Last Updated:** July 2026 | ⭐ Feel free to star my repositories if you find them useful!
+
+</div>
