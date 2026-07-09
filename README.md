@@ -30,7 +30,7 @@ I'm a dedicated software developer with a passion for building innovative soluti
 Check out my coding activity on WakaTime: https://wakatime.com/@Drewlius
 ```
 
-[![WakaTime](https://wakatime.com/badge/user/Drewlius.svg?style=flat-square)](https://wakatime.com/@Drewlius)
+[![wakatime](https://wakatime.com/badge/user/2a7a60c6-848c-456f-b2fc-0206876e36ab.svg)](https://wakatime.com/@2a7a60c6-848c-456f-b2fc-0206876e36ab)
 
 ---
 
