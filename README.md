@@ -26,7 +26,7 @@ I'm a dedicated software developer with a passion for building innovative soluti
 
 ## ⏱️ Coding Activity (WakaTime)
 
-![WakaTime stats](https://gist.githubusercontent.com/Drewlius/d75c791079f9aba74e1545baf89acc5c/raw/waka.md)
+![WakaTime stats](https://gist.githubusercontent.com/Drewlius/0c7160e061703d9b57f2320d145d39de/raw/wakastats.md)
 
 *Stats updated automatically daily via GitHub Actions + WakaTime integration*
 
