@@ -26,38 +26,29 @@ I'm a dedicated software developer with a passion for building innovative soluti
 
 ## ⏱️ Coding Activity (WakaTime)
 
-![WakaTime stats](https://gist.githubusercontent.com/Drewlius/0c7160e061703d9b57f2320d145d39de/raw/wakastats.md)
+```
+Check out my coding activity on WakaTime: https://wakatime.com/@Drewlius
+```
 
-*Stats updated automatically daily via GitHub Actions + WakaTime integration*
+[![WakaTime](https://wakatime.com/badge/user/Drewlius.svg?style=flat-square)](https://wakatime.com/@Drewlius)
 
 ---
 
-## 📌 Featured Gists & Scripts
+## 📌 Quick Access Gists
 
-### 🐧 Linux Shell Scripts
-
-My most useful Linux automation scripts and utilities:
-
-| Gist | Purpose |
-|------|---------|
-| [Linux Automation Script #1](https://gist.github.com/Drewlius/d75c791079f9aba74e1545baf89acc5c) | System automation and utility scripts |
-| [Linux Automation Script #2](https://gist.github.com/Drewlius/08a66f8df836c65b5643a1975918b3d8) | Linux system optimization tools |
-| [Linux Automation Script #3](https://gist.github.com/Drewlius/a1e2c003bb2390adb60c10c2a3f65568) | Device management and configuration |
-| [Linux Automation Script #4](https://gist.github.com/Drewlius/e1b2f3763c7c2344112ba798550f03f4) | System administration utilities |
-
-### 📚 All Gists
-
-Browse my complete collection of scripts and code snippets:
+> A curated collection of my most useful gists. [View all gists →](https://gist.github.com/Drewlius)
 
 <div align="center">
 
-| Resource | Link |
-|----------|------|
-| **View All Gists** | [https://gist.github.com/Drewlius](https://gist.github.com/Drewlius) |
-| **Latest Updates** | [Sorted by Date](https://gist.github.com/Drewlius?sort=updated) |
-| **Search Gists** | [Search My Gists](https://gist.github.com/search?q=user:Drewlius) |
+| Gist | Description |
+|------|-------------|
+| [View All Gists](https://gist.github.com/Drewlius) | Browse my complete collection of 10+ useful scripts and code snippets |
+| [Latest Gists](https://gist.github.com/Drewlius?sort=updated) | Most recently updated gists sorted by date |
+| [Gist Search](https://gist.github.com/search?q=user:Drewlius) | Search through all my gists |
 
 </div>
+
+**Quick Tip:** You can fork any of my gists or use them directly in your own projects!
 
 ---
 
@@ -142,7 +133,6 @@ Browse my complete collection of scripts and code snippets:
 - ✅ **AI Integration Specialist** - Building plugins and extensions for AI-powered tools
 - ✅ **Documentation Excellence** - Clear, comprehensive documentation for technical projects
 - ✅ **Gist Library** - 10+ useful scripts and snippets available for community use
-- ✅ **Linux Systems Expert** - Advanced shell scripting and system automation
 - ✅ **Community Engagement** - Creating upstream PRs and improving open-source projects
 
 ---
