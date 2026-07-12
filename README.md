@@ -1,4 +1,8 @@
+<div align="center">
+  
 # 👋 Welcome to My GitHub Profile
+
+<div>
 
 > A passionate developer focused on open-source contributions, scripting automation, and AI-driven solutions.
 
@@ -11,23 +15,32 @@
 </div>
 
 ---
-
+<div align="center">
+  
 ## 🚀 About Me
+
+<div>
 
 I'm a dedicated software developer with a passion for building innovative solutions and contributing to the open-source community. My expertise spans multiple domains including:
 
-- 🔧 **Systems Programming** - Linux utilities and cryptography
-- 🤖 **AI/ML Integration** - Obsidian plugins and coding assistants
-- 📄 **Automation Scripts** - PDF processing and device management
-- 🔐 **Security & Encryption** - Encrypted filesystem automation
-- 📦 **Community Contributions** - Maintaining and improving community-driven projects
+-  🔧 **Systems Programming** - Linux utilities and cryptography
+-  🤖 **AI/ML Integration** - Obsidian plugins and coding assistants
+-  📄 **Automation Scripts** - PDF processing and device management
+-  🔐 **Security & Encryption** - Encrypted filesystem automation
+-  📦 **Community Contributions** - Maintaining and improving community-driven projects
 
 ---
 
+<div align="center">
+
 ## ⏱️ Coding Activity (WakaTime)
 
-### Check out my coding activity on WakaTime:[![wakatime](https://wakatime.com/badge/user/2a7a60c6-848c-456f-b2fc-0206876e36ab.svg)](https://wakatime.com/@2a7a60c6-848c-456f-b2fc-0206876e36ab)
+### Check out my coding activity on WakaTime:
+  
+[![wakatime](https://wakatime.com/badge/user/2a7a60c6-848c-456f-b2fc-0206876e36ab.svg)](https://wakatime.com/@2a7a60c6-848c-456f-b2fc-0206876e36ab)
 
+<div>
+  
 ---
 
 ## 📌 Quick Access Gists
@@ -172,7 +185,7 @@ All repositories feature:
 
 <div align="center">
 
-### 💡 *"Code is poetry. Security is a requirement. Open-source is a lifestyle."*
+### 💡 *"Code is art. Security is a requirement. Open-source is a lifestyle."*
 
 **Last Updated:** July 2026 | ⭐ Feel free to star my repositories if you find them useful!
 
