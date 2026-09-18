@@ -12,7 +12,6 @@ jobs:
   update-readme:
     name: Update README with WakaTime stats
     runs-on: ubuntu-latest
-    timeout-minutes: 15
 
     steps:
       - name: Update README
