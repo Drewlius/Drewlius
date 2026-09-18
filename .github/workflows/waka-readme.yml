@@ -2,9 +2,7 @@ name: Waka Readme Stats
 
 on:
   schedule:
-    # Runs every day at 18:30 UTC
     - cron: "30 18 * * *"
-
   workflow_dispatch:
 
 permissions:
