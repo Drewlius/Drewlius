@@ -1,7 +1,8 @@
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2032%20mins-blue?style=flat)
+[![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/drewlius/) [![freeCodeCamp Certification](https://img.shields.io/badge/freeCodeCamp-Scientific%20Computing%20with%20Python-white?style=for-the-badge&logo=freecodecamp&logoColor=black)](https://www.freecodecamp.org/certification/drewlius/python-v9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/RuthBaderDinkleburg) ![Google Meet](https://img.shields.io/badge/Google%20Meet-%2300897B.svg?style=for-the-badge&logo=google-meet&logoColor=white) [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) 
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+<!--START_SECTION:waka-->
+[![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2019%20mins-blue?style=flat)](https://wakatime.com/@2a7a60c6-848c-456f-b2fc-0206876e36ab) ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+
 
 **🐱 My GitHub Data** 
 
