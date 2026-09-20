@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-255%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-292%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
 
@@ -20,24 +20,24 @@
 ```text
 🕑︎ Time Zone: UTC
 
-⏱️ Total Time: 71 hrs 3 mins (Browsing: 49 hrs 54 mins, AI Coding: 11 hrs 1 min, Coding: 9 hrs 31 mins, Writing Docs: 29 mins, Meeting: 5 mins)
+⏱️ Total Time: 79 hrs 32 mins (Browsing: 66 hrs 44 mins, Coding: 9 hrs 20 mins, AI Coding: 3 hrs 2 mins, Writing Docs: 19 mins, Meeting: 5 mins)
 
 💬 Programming Languages: 
-Other                    48 hrs 37 mins      █████████████████░░░░░░░░   68.43 % 
-TypeScript               8 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-Markdown                 3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-INI                      2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-YAML                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Other                    61 hrs 43 mins      ███████████████████░░░░░░   77.59 % 
+TypeScript               8 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+HTML                     4 hrs 11 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Markdown                 2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+Normal                   1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
 
 🔥 Editors: 
-Chrome                   50 hrs              ██████████████████░░░░░░░   70.38 % 
-OpenCode                 9 hrs 27 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-IntelliJ IDEA            7 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-Ktexteditor              2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Obsidian                 1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Chrome                   66 hrs 50 mins      █████████████████████░░░░   84.02 % 
+IntelliJ IDEA            7 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.95 % 
+Ktexteditor              1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+OpenCode                 1 hr 16 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Obsidian                 1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Linux                    71 hrs 3 mins       █████████████████████████   100.00 % 
+Linux                    79 hrs 32 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -53,5 +53,5 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on September 19, 2026 03:33:11 UTC
+ Last Updated on September 20, 2026 03:48:46 UTC
 <!--END_SECTION:waka-->
