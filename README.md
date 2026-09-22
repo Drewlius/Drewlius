@@ -1,13 +1,13 @@
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/drewlius/) [![freeCodeCamp Certification](https://img.shields.io/badge/Certification-Python%20v9%20-white?style=for-the-badge&logo=freecodecamp&logoColor=black)](https://www.freecodecamp.org/certification/drewlius/python-v9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/RuthBaderDinkleburg) ![Google Meet](https://img.shields.io/badge/Google%20Meet-%2300897B.svg?style=for-the-badge&logo=google-meet&logoColor=white) [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-304%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-313%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 kB Used in GitHub's Storage 
+> 📦 17.7 kB Used in GitHub's Storage 
  > 
 > 🏆 176 Contributions in the Year 2026
  > 
@@ -22,24 +22,24 @@
 ```text
 🕑︎ Time Zone: UTC
 
-⏱️ Total Time: 84 hrs 31 mins (Browsing: 71 hrs 43 mins, Coding: 9 hrs 36 mins, AI Coding: 2 hrs 45 mins, Writing Docs: 20 mins, Meeting: 5 mins)
+⏱️ Total Time: 88 hrs 12 mins (Browsing: 72 hrs 2 mins, Coding: 10 hrs 19 mins, AI Coding: 3 hrs 11 mins, Learning: 1 hr 26 mins, Writing Docs: 28 mins, Configuring: 27 mins, Researching: 10 mins, Meeting: 6 mins)
 
 💬 Programming Languages: 
-Other                    66 hrs 19 mins      ████████████████████░░░░░   78.47 % 
-TypeScript               8 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-HTML                     3 hrs 39 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-Markdown                 2 hrs 54 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-Normal                   1 hr 19 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+Other                    70 hrs 15 mins      ████████████████████░░░░░   79.65 % 
+TypeScript               9 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
+HTML                     3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Markdown                 2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Normal                   1 hr 16 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-Chrome                   71 hrs 49 mins      █████████████████████░░░░   84.97 % 
-IntelliJ IDEA            7 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Ktexteditor              2 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
-Obsidian                 1 hr 10 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-OpenCode                 40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Chrome                   74 hrs 59 mins      █████████████████████░░░░   85.02 % 
+IntelliJ IDEA            7 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+Ktexteditor              2 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Antigravity CLI          1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+OpenCode                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Linux                    84 hrs 31 mins      █████████████████████████   100.00 % 
+Linux                    88 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -55,7 +55,7 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on September 21, 2026 03:45:22 UTC
+ Last Updated on September 22, 2026 03:43:16 UTC
 <!--END_SECTION:waka-->
 
 
