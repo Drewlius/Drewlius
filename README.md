@@ -57,16 +57,3 @@ Swift                    1 repo              █░░░░░░░░░░�
 
  Last Updated on September 24, 2026 03:33:18 UTC
 <!--END_SECTION:waka-->
-
-
-
-
-
-
-
-
-
-
-
-[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Drew%20Richburg/Aspiring%20Software%20Engineer/Hireable!/Some%20College/dark/https%3A%2F%2Fmedia.licdn.com%2Fdms%2Fimage%2Fv2%2FD4D35AQFhuMoCmegJZQ%2Fprofile-framedphoto-shrink_800_800%2FB4DaCiOkbMKMAY-%2F0%2F1789428123748%3Fe%3D1790535600%26v%3Dbeta%26t%3DhpMum2fbjc-7VFcYy-bZDkdYYWzB4Y2_yFidVBJC9Is
-)](https://linkedin.com/in/drewlius)
