@@ -2,19 +2,19 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-342%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-353%20hrs%209%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 17.8 kB Used in GitHub's Storage 
+> 📦 18.0 kB Used in GitHub's Storage 
  > 
-> 🏆 177 Contributions in the Year 2026
+> 🏆 184 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 11 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -23,39 +23,39 @@
 ```text
 🕑︎ Time Zone: UTC
 
-⏱️ Total Time: 87 hrs 5 mins (Browsing: 76 hrs 28 mins, AI Coding: 5 hrs 46 mins, Coding: 2 hrs 29 mins, Learning: 1 hr 26 mins, Configuring: 27 mins, Writing Docs: 16 mins, Researching: 10 mins, Meeting: 0 secs)
+⏱️ Total Time: 79 hrs 56 mins (Browsing: 69 hrs 24 mins, AI Coding: 6 hrs 1 min, Coding: 1 hr 48 mins, Learning: 1 hr 26 mins, Writing Docs: 30 mins, Configuring: 27 mins, Researching: 10 mins, Meeting: 6 mins)
 
 💬 Programming Languages: 
-Other                    77 hrs 7 mins       ██████████████████████░░░   88.55 % 
-HTML                     3 hrs 36 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Markdown                 2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-TypeScript               1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Python                   58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+Other                    73 hrs 21 mins      ███████████████████████░░   91.78 % 
+Markdown                 3 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Python                   58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+Normal                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
 
 🔥 Editors: 
-Chrome                   79 hrs 20 mins      ███████████████████████░░   91.09 % 
-Ktexteditor              2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-OpenCode                 2 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-Antigravity CLI          1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-Codex CLI                24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Chrome                   72 hrs 22 mins      ███████████████████████░░   90.54 % 
+OpenCode                 3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Ktexteditor              2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Antigravity CLI          1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+Obsidian                 15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
 
 💻 Operating System: 
-Linux                    87 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    79 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
-Shell                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-Python                   4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
-JavaScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+Shell                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
 ```
 
 
 
 
- Last Updated on September 25, 2026 03:50:07 UTC
+ Last Updated on September 26, 2026 03:55:50 UTC
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes)
