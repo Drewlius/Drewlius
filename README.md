@@ -2,15 +2,15 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-356%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2037%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 18.0 kB Used in GitHub's Storage 
+> 📦 34.4 kB Used in GitHub's Storage 
  > 
-> 🏆 186 Contributions in the Year 2026
+> 🏆 190 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -23,39 +23,39 @@
 ```text
 🕑︎ Time Zone: UTC
 
-⏱️ Total Time: 64 hrs 47 mins (Browsing: 53 hrs 29 mins, AI Coding: 6 hrs 47 mins, Coding: 1 hr 48 mins, Learning: 1 hr 26 mins, Writing Docs: 30 mins, Configuring: 27 mins, Researching: 10 mins, Meeting: 6 mins)
+⏱️ Total Time: 71 hrs 35 mins (Browsing: 50 hrs 1 min, AI Coding: 14 hrs 28 mins, Coding: 2 hrs 19 mins, Learning: 1 hr 38 mins, Writing Docs: 55 mins, Communicating: 52 mins, Configuring: 51 mins, Researching: 21 mins, Meeting: 6 mins, Building: 1 min)
 
 💬 Programming Languages: 
-Other                    57 hrs 15 mins      ██████████████████████░░░   88.39 % 
-Markdown                 3 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
-TypeScript               1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
-Python                   1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
-Bash                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Other                    58 hrs 57 mins      █████████████████████░░░░   82.37 % 
+Markdown                 4 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Normal                   1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+JSONC                    1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 🔥 Editors: 
-Chrome                   56 hrs 26 mins      ██████████████████████░░░   87.13 % 
-OpenCode                 3 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Ktexteditor              2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
-Antigravity CLI          1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Codex CLI                26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Chrome                   55 hrs 49 mins      ███████████████████░░░░░░   77.99 % 
+Codex CLI                5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
+Ktexteditor              3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+OpenCode                 3 hrs 37 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+Antigravity CLI          1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 💻 Operating System: 
-Linux                    64 hrs 47 mins      █████████████████████████   100.00 % 
+Linux                    71 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   27.59 % 
-Shell                    5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+TypeScript               9 repos             ███████░░░░░░░░░░░░░░░░░░   29.03 % 
+Shell                    6 repos             █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Python                   4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
 ```
 
 
 
 
- Last Updated on September 27, 2026 04:06:01 UTC
+ Last Updated on September 28, 2026 04:07:36 UTC
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes)
