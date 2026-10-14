@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-560%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-558%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -23,24 +23,24 @@
 ```text
 🕑︎ Time Zone: UTC
 
-⏱️ Total Time: 79 hrs 35 mins (Browsing: 43 hrs 2 mins, AI Coding: 21 hrs 28 mins, Coding: 14 hrs 48 mins, Writing Docs: 15 mins)
+⏱️ Total Time: 73 hrs 56 mins (Browsing: 38 hrs, AI Coding: 20 hrs 45 mins, Coding: 14 hrs 53 mins, Writing Docs: 17 mins)
 
 💬 Programming Languages: 
-Other                    42 hrs 33 mins      █████████████░░░░░░░░░░░░   53.48 % 
-TypeScript               19 hrs 2 mins       ██████░░░░░░░░░░░░░░░░░░░   23.93 % 
-JSONC                    3 hrs 21 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-Normal                   2 hrs 50 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-Dotenv                   2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Other                    39 hrs              █████████████░░░░░░░░░░░░   52.75 % 
+TypeScript               18 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   25.38 % 
+JSONC                    3 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Normal                   2 hrs 42 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+Dotenv                   2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
 
 🔥 Editors: 
-Chrome                   43 hrs 2 mins       ██████████████░░░░░░░░░░░   54.09 % 
-VS Code                  13 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.23 % 
-Ktexteditor              8 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-OpenCode                 7 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Antigravity              5 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Chrome                   38 hrs              █████████████░░░░░░░░░░░░   51.41 % 
+VS Code                  13 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+Ktexteditor              8 hrs 40 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.73 % 
+OpenCode                 7 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Antigravity              5 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
 
 💻 Operating System: 
-Linux                    79 hrs 35 mins      █████████████████████████   100.00 % 
+Linux                    73 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -56,6 +56,6 @@ Swift                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on October 13, 2026 05:49:05 UTC
+ Last Updated on October 14, 2026 03:52:14 UTC
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes)
