@@ -3,25 +3,16 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    # Runs nightly at 23:55 UTC
+    - cron: '55 23 * * *'
 
 jobs:
   update-readme:
+    name: Update this repo's README
     permissions:
       contents: write
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GH_TOKEN }}
-
-      - name: Configure git auth
-        run: |
-          git config --global user.name "Drewlius"
-          git config --global user.email "drewrichburg97@icloud.com"
-          git remote set-url origin "https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/Drewlius/Drewlius"
-
       - uses: Drewlius/waka-readme-stats@main
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
