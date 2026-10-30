@@ -3,7 +3,10 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    # GitHub cron is UTC-only. 04:55 UTC = 23:55 Eastern (EST). During EDT months
+    # it fires at 00:55 local, one day behind by minutes — re-sync to '55 3 * * *'
+    # in March if you care about exact DST alignment.
+    - cron: '55 4 * * *'
 
 jobs:
   update-readme:
