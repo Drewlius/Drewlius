@@ -2,7 +2,7 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2056%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -10,11 +10,11 @@
 
 > 📦 35.1 kB Used in GitHub's Storage 
  > 
-> 🏆 238 Contributions in the Year 2026
+> 🏆 243 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 15 Public Repositories 
+> 📜 16 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
@@ -23,39 +23,40 @@
 ```text
 🕑︎ Time Zone: UTC
 
-⏱️ Total Time: 29 hrs 59 mins (Researching: 19 hrs 7 mins, AI Coding: 8 hrs 48 mins, Coding: 1 hr 32 mins, Writing Docs: 31 mins, Writing Tests: 0 secs)
+⏱️ Total Time: 44 hrs 18 mins (Researching: 28 hrs 36 mins, AI Coding: 12 hrs 38 mins, Coding: 2 hrs 27 mins, Writing Docs: 35 mins, Writing Tests: 0 secs)
 
 💬 Programming Languages: 
-Other                    23 hrs 22 mins      ███████████████████░░░░░░   77.95 % 
-JSONC                    2 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
-Markdown                 1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Python                   1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Log File (simplified) Sel30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Other                    30 hrs 25 mins      █████████████████░░░░░░░░   68.65 % 
+JSONC                    5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Markdown                 2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Python                   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+INI Files                1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 7 mins       ████████████████░░░░░░░░░   63.74 % 
-OpenCode                 4 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
-Ktexteditor              1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Opencode Cli             1 hr 42 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
-Antigravity              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+Chrome                   28 hrs 36 mins      ████████████████░░░░░░░░░   64.56 % 
+OpenCode                 5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Opencode Cli             3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Ktexteditor              2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Obsidian                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
 
 💻 Operating System: 
-Linux                    29 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    44 hrs 15 mins      █████████████████████████   99.87 % 
+Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ████████░░░░░░░░░░░░░░░░░   30.30 % 
-Shell                    6 repos             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-Python                   5 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+Shell                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
 
 
- Last Updated on October 31, 2026 02:49:35 UTC
+ Last Updated on November 01, 2026 02:41:09 UTC
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes)
