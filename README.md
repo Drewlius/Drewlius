@@ -59,7 +59,8 @@ Swift                    1 repo              █░░░░░░░░░░�
 
  Last Updated on November 01, 2026 02:41:09 UTC
 <!--END_SECTION:waka-->
+---
 
-![Weekly Top Albums](https://image.thum.io/get/maxAge/168/https://drewlius.github.io/drewlius)
+![Weekly Top Albums](https://image.thum.io/get/maxAge/168/https://drewlius.github.io/Drewlius)
 
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes)
