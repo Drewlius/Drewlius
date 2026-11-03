@@ -61,4 +61,4 @@ Swift                    1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes)
 
-![Weekly Top Albums](https://yourusername.github.io/weekly-albums.png)
+![Weekly Top Albums](https://image.thum.io/get/maxAge/168/https://drewlius.github.io/)  
