@@ -2,62 +2,67 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-705%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-758%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 35.1 kB Used in GitHub's Storage 
+> 📦 35.3 kB Used in GitHub's Storage 
  > 
-> 🏆 243 Contributions in the Year 2026
+> 🏆 256 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 16 Public Repositories 
+> 📜 14 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: UTC
-
-⏱️ Total Time: 44 hrs 18 mins (Researching: 28 hrs 36 mins, AI Coding: 12 hrs 38 mins, Coding: 2 hrs 27 mins, Writing Docs: 35 mins, Writing Tests: 0 secs)
+⏱️ Total Time: 63 hrs 18 mins (Researching: 48 hrs 11 mins, AI Coding: 12 hrs 10 mins, Coding: 2 hrs 52 mins, Writing Docs: 4 mins)
 
 💬 Programming Languages: 
-Other                    30 hrs 25 mins      █████████████████░░░░░░░░   68.65 % 
-JSONC                    5 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-Markdown                 2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
-Python                   1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
-INI Files                1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
+Other                    40 hrs 40 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀   64.25 % 
+INI Files                7 hrs 18 mins       ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.56 % 
+JSONC                    4 hrs 31 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.14 % 
+JSON                     2 hrs 45 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.34 % 
+Markdown                 1 hr 37 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.56 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 36 mins      ████████████████░░░░░░░░░   64.56 % 
-OpenCode                 5 hrs 18 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
-Opencode Cli             3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Ktexteditor              2 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Obsidian                 1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+Chrome                   48 hrs 11 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   76.11 % 
+Opencode Cli             5 hrs 6 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.06 % 
+OpenCode                 4 hrs 44 mins       ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.50 % 
+Ktexteditor              2 hrs 14 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.54 % 
+VS Code                  1 hr 52 mins        ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.97 % 
+
+🐱‍💻 Projects: 
+Drewlius                 21 hrs 40 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   34.24 % 
+context7                 13 hrs 58 mins      ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.09 % 
+wakasync-archive         2 hrs 49 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.47 % 
+ignis                    2 hrs 46 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.38 % 
+Ignis_AI_Server          2 hrs 33 mins       ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.04 % 
 
 💻 Operating System: 
-Linux                    44 hrs 15 mins      █████████████████████████   99.87 % 
-Windows                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Linux                    63 hrs 14 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.91 % 
+Windows                  3 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.09 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               10 repos            ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Shell                    6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Swift                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               10 repos            ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   26.32 % 
+Shell                    6 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.79 % 
+Python                   6 repos             ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.79 % 
+JavaScript               4 repos             ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.53 % 
+HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.26 % 
 ```
 
 
 
 
- Last Updated on November 01, 2026 02:41:09 UTC
+ Last Updated on November 06, 2026 08:06:27 UTC
 <!--END_SECTION:waka-->
 ---
 
