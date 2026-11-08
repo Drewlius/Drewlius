@@ -65,6 +65,4 @@ HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 ---
 
-![Weekly Top Albums](https://image.thum.io/get/maxAge/168/https://drewlius.github.io/Drewlius)
-
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes)
