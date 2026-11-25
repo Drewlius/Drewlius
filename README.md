@@ -1,4 +1,4 @@
-[![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/drewlius/) [![freeCodeCamp Certification](https://img.shields.io/badge/Certification-Python%20v9%20-white?style=for-the-badge&logo=freecodecamp&logoColor=black)](https://www.freecodecamp.org/certification/drewlius/python-v9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/RuthBaderDinkleburg) ![Google Meet](https://img.shields.io/badge/Google%20Meet-%2300897B.svg?style=for-the-badge&logo=google-meet&logoColor=white)
+[![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-%230A0A23.svg?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/certification/drewlius/) ![freeCodeCamp points](https://img.shields.io/freecodecamp/points/drewlius?style=for-the-badge&logoColor=white&logoSize=auto&color=red) [![freeCodeCamp Certification](https://img.shields.io/badge/Certification-Python%20v9%20-white?style=for-the-badge&logo=freecodecamp&logoColor=black)](https://www.freecodecamp.org/certification/drewlius/python-v9) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/RuthBaderDinkleburg) ![Google Meet](https://img.shields.io/badge/Google%20Meet-%2300897B.svg?style=for-the-badge&logo=google-meet&logoColor=white)
 
 
 <!--START_SECTION:waka-->
@@ -65,4 +65,6 @@ HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 ---
 
-[![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes)
+[![Drewlius's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Drewlius&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
