@@ -65,6 +65,8 @@ HTML                     2 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 ---
 
+<a href="https://daily.dev/drewlius"><img src="https://api.daily.dev/devcards/v2/kCLsZ9B5ukrPYn50PHmRv.png?r=ypr&type=wide" width="652" alt="Drew's Dev Card"/></a>
+
 [![Drewlius's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Drewlius&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![](https://img.shields.io/badge/license-free%20to%20steal%20(I%20stole%20most%20of%20it)-08C)](https://github.com/sebmestrallet/absurd-badges) (it's Only Jokes) [![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
